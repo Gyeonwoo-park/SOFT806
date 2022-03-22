@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+
+    <string name="interstella_desc">In Earth future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankinds new home.</string>
+    <string name="Venom_desc">Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake experiments, Eddies body merges with the alien Venom -- leaving him with superhuman strength and power. Twisted, dark and fueled by rage, Venom tries to control the new and dangerous abilities that Eddie finds so intoxicating.</string>
+    <string name="Thor_desc">In ancient times, the gods of Asgard fought and won a war against an evil race known as the Dark Elves. The survivors were neutralized, and their ultimate weapon -- the Aether -- was buried in a secret location. Hundreds of years later, Jane Foster (Natalie Portman) finds the Aether and becomes its host, forcing Thor (Chris Hemsworth) to bring her to Asgard before Dark Elf Malekith (Christopher Eccleston) captures her and uses the weapon to destroy the Nine Realms -- including Earth.</string>
+    <string name="Limitless_desc">With the help of a mysterious pill that enables the user to access 100% of his brain abilities, a struggling writer becomes a financial wizard, but it also puts him in a new world with many dangers. An action-thriller about a writer who takes an experimental drug that allows him to use 100% of his mind.</string>
+    <string name="AboutUs">We are the company that gives movie summaries. Our company was established on March 15th in 2022 and started as a small startup. We are made up of people who like movies and wil always update new movies with description. </string>
+
+
+</resources>
